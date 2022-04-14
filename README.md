@@ -1,2 +1,2 @@
-# Arch-Backup
-Zapasowe domyślne pliki dla Arch Linux
+# EndeavourOS-backuo
+Zapasowe domyślne pliki dla EndeavourOS
